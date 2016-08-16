@@ -143,7 +143,7 @@ package colorao.devices.dmx
 		 */
 		public function flush() : void
 		{
-			_port.writeBytes(_packager.getPackage());
+			_port.writeBytes(_packager.getPackage(_samePackage));
 		}
 		
 		
