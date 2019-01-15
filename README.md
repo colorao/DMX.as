@@ -1,2 +1,2 @@
-# as3
-collection of some as3 classes
+# DMX
+collection of some DMX classes for as3
